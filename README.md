@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @knowidont
+- 👀 I’m interested in playing
+- 🌱 I’m currently learning Python
+- 📫 How to reach me 3095563448@qq.com
